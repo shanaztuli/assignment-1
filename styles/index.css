@@ -65,7 +65,7 @@ header{
 }
 
 
-div h1 {
+.big-title {
         font-weight: bold;
         font-size: 64px;
 }
@@ -99,7 +99,40 @@ font-weight: 400px;
 .banner-im{
 
     border-radius: 48px;
-}    
+}  
+/* box items */
+.box{
+    background-color: #bdbbf8;
+    width: 1140px;
+    height: 306px;
+    text-align: center;
+    padding: 80px 50px;
+    border-radius: 24px;
+    margin: 116px 141px;
+    
+
+}
+.items-mother{
+
+    display: flex;
+    justify-content: space-around;
+}
+.box-title{
+
+font-weight: bold;
+font-size: 38px;
+color: #252432;
+
+}
+.first-item{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+}
+.first-item-child{
+    font-size: 20px;
+
+}
 
 
 
