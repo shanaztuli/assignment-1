@@ -37,10 +37,73 @@ nav ul li  {
     font-weight:bold ;
     /* padding: 12px 36px; */
     border-radius:10px;
-    width: 132px;
-    height: 48px;
+   
     border:none; 
-    box-shadow: none;
-    outline: none;
 }
+.button-fix{
+     width: 132px;
+    height: 48px;
+}
+.lunch-live-bt{
+
+    width: 229px;
+    height: 48px;
+}
+
+header{ 
+    background-image: url(../images/Hero-bg.png);
+    margin-bottom: 150px;
+    height: 698px;
+    padding-bottom: 200px;
+}
+/* banner section */
+.banner{
+    margin: 300px 267px 152px;
+    text-align: center;
+    border-bottom: 150px;
+   
+}
+
+
+div h1 {
+        font-weight: bold;
+        font-size: 64px;
+}
+
+/* action step */
+.banner-2{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 105px 150px;
+    align-items: center;
+    gap: 220px;
+}
+.banner-2-contant{
+    width: 517px;
+    height: 203px;
+}
+
+
+.benner head{
+
+font-weight:bold ;
+font-size: 42;
+color: #252432;
+}
+.banner-description{
+    font-size: 24;
+    color: #252432;
+font-weight: 400px;
+}
+.banner-im{
+
+    border-radius: 48px;
+}    
+
+
+
+
+
+
 
